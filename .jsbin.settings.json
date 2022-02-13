@@ -1,0 +1,8 @@
+{
+  // you can also use comments
+  // "app.theme": "dark"
+  "app.showWelcome": true,
+  "editor.lineWrapping": true,
+  "editor.lineNumbers": false,
+  "app.theme": "dark"
+}
